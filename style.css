@@ -5,12 +5,13 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: 'Ubuntu', sans-serif;
     scroll-behavior: smooth;
     text-decoration: none;
+    font-family: 'Ubuntu', sans-serif;
     
     
 }
+
 
 /*######### ANIMACOES #########*/
 @keyframes down {
@@ -213,16 +214,16 @@ span {
     transform: scale(1.075);
     transition: 0.3s ease-in;
     cursor: pointer;
-    box-shadow: -15px 15px 0px rgb(78, 5, 196);
+    box-shadow: -15px 25px 0px rgb(78, 5, 196);
     
     
 }
 
 .services_card:nth-child(2):hover {
-    box-shadow: 0px 15px 0px rgb(78, 5, 196);
+    box-shadow: -15px 25px 0px 0px  rgb(78, 5, 196);
 }
 .services_card:nth-child(3):hover {
-    box-shadow: 15px 15px 0px rgb(78, 5, 196);
+    box-shadow: -15px 25px 0px rgb(78, 5, 196);
 }
 
 
@@ -511,6 +512,7 @@ span {
 .img-project {
     width: 390px;
     border-radius: 10px;
+    
     
     
 }
