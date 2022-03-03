@@ -359,6 +359,8 @@ span {
     width: 100%;
 }
 
+
+
 .main_container2 {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -377,8 +379,7 @@ span {
     color: rgb(253, 253, 253);
     width: 100%;
     margin-bottom: 90px;
-    animation: down 4s;
-    animation-play-state: running;
+    
     
 }
 
@@ -396,6 +397,8 @@ span {
 .main_content2 p {
     color: #ffffff;
 }
+
+
 
 .main_btn2 {
     font-size: 1.6rem;
@@ -464,7 +467,7 @@ span {
     flex-direction: column;
     justify-content: center;
     color: white;
-    margin-bottom: 100px;
+    
     
 }
 
